@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1731681005356,
+  "timestamp": 1731681430694,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.ca301360d49ce295.js",
+        "/main.e90f7e9d3eebf1c1.js",
         "/manifest.webmanifest",
         "/polyfills.c1d1e6c18228a94c.js",
         "/runtime.cf424343e2754761.js",
@@ -77,8 +77,8 @@
     "/assets/img/contactanos.png": "c912c28779bf53950851ba83c5eee6bba4c72e8d",
     "/assets/img/definicion-servicios.jpg": "f33aff9fd12eb75da06df80603838384db8d7586",
     "/assets/img/descarga.jpeg": "b2446c79298c830e5069f0909b4e1f111c1d301f",
-    "/index.html": "79e2ac0fb3cdf5ca0bfa8fb1350d83425462017e",
-    "/main.ca301360d49ce295.js": "9dba4d7b26349015c84a3f825b0fb6add2d4aee7",
+    "/index.html": "7d63a607736ad67649138f9bcffe382745bed967",
+    "/main.e90f7e9d3eebf1c1.js": "ab75863b40210e1831cd7e6893a39afcd4baff0a",
     "/manifest.webmanifest": "612e73da42b5f711efe4421c0e49f93c91a2cc40",
     "/polyfills.c1d1e6c18228a94c.js": "11d3aa07a9efbc3bcb5e5c641ef6cf7b9abdbfe7",
     "/runtime.cf424343e2754761.js": "d87dd591a64c07cb06fec489c59b797b6418ec21",
