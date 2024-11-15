@@ -1,7 +1,7 @@
 {
   "name": "MiPWA",
   "short_name": "MiPWA",
-  "theme_color": "#00000",
+  "theme_color": "#1976d2",
   "background_color": "#00000",
   "display": "standalone",
   "start_url": "./",
