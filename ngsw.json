@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1731653103322,
+  "timestamp": 1731667356296,
   "index": "/pwaAngular2/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/pwaAngular2/index.html",
-        "/pwaAngular2/main.2f5048564bc15713.js",
+        "/pwaAngular2/main.542dd88f021fbedf.js",
         "/pwaAngular2/manifest.webmanifest",
         "/pwaAngular2/polyfills.c1d1e6c18228a94c.js",
         "/pwaAngular2/runtime.cf424343e2754761.js",
@@ -77,8 +77,8 @@
     "/pwaAngular2/assets/img/contactanos.png": "c912c28779bf53950851ba83c5eee6bba4c72e8d",
     "/pwaAngular2/assets/img/definicion-servicios.jpg": "f33aff9fd12eb75da06df80603838384db8d7586",
     "/pwaAngular2/assets/img/descarga.jpeg": "b2446c79298c830e5069f0909b4e1f111c1d301f",
-    "/pwaAngular2/index.html": "98c4dc04ee6cbf2a55f33b461393808f8d9da631",
-    "/pwaAngular2/main.2f5048564bc15713.js": "51ca778b19aaf6c924b124bfa23c4ed33ae90ae0",
+    "/pwaAngular2/index.html": "922f52da0c24dbf875ad846adf5e5def54aa9225",
+    "/pwaAngular2/main.542dd88f021fbedf.js": "988847665ec685367ed85808aa82a58f6497ffc3",
     "/pwaAngular2/manifest.webmanifest": "4815f6d0733d17be36ea7da5ed508fe273c4f941",
     "/pwaAngular2/polyfills.c1d1e6c18228a94c.js": "11d3aa07a9efbc3bcb5e5c641ef6cf7b9abdbfe7",
     "/pwaAngular2/runtime.cf424343e2754761.js": "d87dd591a64c07cb06fec489c59b797b6418ec21",
