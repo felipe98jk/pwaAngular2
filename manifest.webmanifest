@@ -1,8 +1,8 @@
 {
-  "name": "pwaAngular2",
-  "short_name": "pwaAngular2",
+  "name": "MiPWA",
+  "short_name": "MiPWA",
   "theme_color": "#000000",
-  "background_color": "#fafafa",
+  "background_color": "#0000000",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
