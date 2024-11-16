@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1731695483607,
-  "index": "/pwaAngular2/index.html",
+  "timestamp": 1731699322985,
+  "index": "/pwa-angular2/index.html",
   "assetGroups": [
     {
       "name": "pwa-angular2",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pwaAngular2/index.html",
-        "/pwaAngular2/main.e90f7e9d3eebf1c1.js",
-        "/pwaAngular2/manifest.webmanifest",
-        "/pwaAngular2/polyfills.c1d1e6c18228a94c.js",
-        "/pwaAngular2/runtime.cf424343e2754761.js",
-        "/pwaAngular2/styles.ef46db3751d8e999.css"
+        "/pwa-angular2/index.html",
+        "/pwa-angular2/main.e90f7e9d3eebf1c1.js",
+        "/pwa-angular2/manifest.webmanifest",
+        "/pwa-angular2/polyfills.c1d1e6c18228a94c.js",
+        "/pwa-angular2/runtime.cf424343e2754761.js",
+        "/pwa-angular2/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -28,20 +28,20 @@
         "ignoreVary": true
       },
       "urls": [
-        "/pwaAngular2/assets/icons/icon-128x128.png",
-        "/pwaAngular2/assets/icons/icon-144x144.png",
-        "/pwaAngular2/assets/icons/icon-152x152.png",
-        "/pwaAngular2/assets/icons/icon-192x192.png",
-        "/pwaAngular2/assets/icons/icon-384x384.png",
-        "/pwaAngular2/assets/icons/icon-512x512.png",
-        "/pwaAngular2/assets/icons/icon-72x72.png",
-        "/pwaAngular2/assets/icons/icon-96x96.png",
-        "/pwaAngular2/assets/img/360_F_77981059_4bySDu7qHXbK3ql6vKTdlRkP9hAToI2i.jpg",
-        "/pwaAngular2/assets/img/Blog-20.jpg",
-        "/pwaAngular2/assets/img/caracteristicas.jpg",
-        "/pwaAngular2/assets/img/contactanos.png",
-        "/pwaAngular2/assets/img/definicion-servicios.jpg",
-        "/pwaAngular2/assets/img/descarga.jpeg"
+        "/pwa-angular2/assets/icons/icon-128x128.png",
+        "/pwa-angular2/assets/icons/icon-144x144.png",
+        "/pwa-angular2/assets/icons/icon-152x152.png",
+        "/pwa-angular2/assets/icons/icon-192x192.png",
+        "/pwa-angular2/assets/icons/icon-384x384.png",
+        "/pwa-angular2/assets/icons/icon-512x512.png",
+        "/pwa-angular2/assets/icons/icon-72x72.png",
+        "/pwa-angular2/assets/icons/icon-96x96.png",
+        "/pwa-angular2/assets/img/360_F_77981059_4bySDu7qHXbK3ql6vKTdlRkP9hAToI2i.jpg",
+        "/pwa-angular2/assets/img/Blog-20.jpg",
+        "/pwa-angular2/assets/img/caracteristicas.jpg",
+        "/pwa-angular2/assets/img/contactanos.png",
+        "/pwa-angular2/assets/img/definicion-servicios.jpg",
+        "/pwa-angular2/assets/img/descarga.jpeg"
       ],
       "patterns": []
     }
@@ -63,26 +63,26 @@
     }
   ],
   "hashTable": {
-    "/pwaAngular2/assets/icons/icon-128x128.png": "644b94aeb5a2ee0cb3bf76024bdd24d5e3605e30",
-    "/pwaAngular2/assets/icons/icon-144x144.png": "1c3533309f852204a17af923bd4b38e426121318",
-    "/pwaAngular2/assets/icons/icon-152x152.png": "dac22a2fd1d259ccbf37a283d05510043dfce112",
-    "/pwaAngular2/assets/icons/icon-192x192.png": "d3d0d3203b30f43e28f0ddd8c0a7edecbd235b06",
-    "/pwaAngular2/assets/icons/icon-384x384.png": "f6d2e28f57c04f5574863e4c2c0d960ffeec3aa3",
-    "/pwaAngular2/assets/icons/icon-512x512.png": "9d3ae3f3a038aaaa80a0c16c8953ffa935103eb2",
-    "/pwaAngular2/assets/icons/icon-72x72.png": "c2e709dacab4e53a1bbe6777e8f3dc3078c4c4b2",
-    "/pwaAngular2/assets/icons/icon-96x96.png": "0b3997c63813ed8f99578c31457819826f3c3ad8",
-    "/pwaAngular2/assets/img/360_F_77981059_4bySDu7qHXbK3ql6vKTdlRkP9hAToI2i.jpg": "bc7ccd20debdb0afbfb434858c0264c4c2d02c1e",
-    "/pwaAngular2/assets/img/Blog-20.jpg": "a4e46c44cbf8c6b013bc2169f548e4f32d088144",
-    "/pwaAngular2/assets/img/caracteristicas.jpg": "766a21519f76d3ef7b374abefc3c4fcf1746e70b",
-    "/pwaAngular2/assets/img/contactanos.png": "c912c28779bf53950851ba83c5eee6bba4c72e8d",
-    "/pwaAngular2/assets/img/definicion-servicios.jpg": "f33aff9fd12eb75da06df80603838384db8d7586",
-    "/pwaAngular2/assets/img/descarga.jpeg": "b2446c79298c830e5069f0909b4e1f111c1d301f",
-    "/pwaAngular2/index.html": "fda859c8973041cf419a200d5a112e9cade30e85",
-    "/pwaAngular2/main.e90f7e9d3eebf1c1.js": "ab75863b40210e1831cd7e6893a39afcd4baff0a",
-    "/pwaAngular2/manifest.webmanifest": "4df0573adca94d8e3cfe0b5061d8d5c5e9ee7ccb",
-    "/pwaAngular2/polyfills.c1d1e6c18228a94c.js": "11d3aa07a9efbc3bcb5e5c641ef6cf7b9abdbfe7",
-    "/pwaAngular2/runtime.cf424343e2754761.js": "d87dd591a64c07cb06fec489c59b797b6418ec21",
-    "/pwaAngular2/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "/pwa-angular2/assets/icons/icon-128x128.png": "644b94aeb5a2ee0cb3bf76024bdd24d5e3605e30",
+    "/pwa-angular2/assets/icons/icon-144x144.png": "1c3533309f852204a17af923bd4b38e426121318",
+    "/pwa-angular2/assets/icons/icon-152x152.png": "dac22a2fd1d259ccbf37a283d05510043dfce112",
+    "/pwa-angular2/assets/icons/icon-192x192.png": "d3d0d3203b30f43e28f0ddd8c0a7edecbd235b06",
+    "/pwa-angular2/assets/icons/icon-384x384.png": "f6d2e28f57c04f5574863e4c2c0d960ffeec3aa3",
+    "/pwa-angular2/assets/icons/icon-512x512.png": "9d3ae3f3a038aaaa80a0c16c8953ffa935103eb2",
+    "/pwa-angular2/assets/icons/icon-72x72.png": "c2e709dacab4e53a1bbe6777e8f3dc3078c4c4b2",
+    "/pwa-angular2/assets/icons/icon-96x96.png": "0b3997c63813ed8f99578c31457819826f3c3ad8",
+    "/pwa-angular2/assets/img/360_F_77981059_4bySDu7qHXbK3ql6vKTdlRkP9hAToI2i.jpg": "bc7ccd20debdb0afbfb434858c0264c4c2d02c1e",
+    "/pwa-angular2/assets/img/Blog-20.jpg": "a4e46c44cbf8c6b013bc2169f548e4f32d088144",
+    "/pwa-angular2/assets/img/caracteristicas.jpg": "766a21519f76d3ef7b374abefc3c4fcf1746e70b",
+    "/pwa-angular2/assets/img/contactanos.png": "c912c28779bf53950851ba83c5eee6bba4c72e8d",
+    "/pwa-angular2/assets/img/definicion-servicios.jpg": "f33aff9fd12eb75da06df80603838384db8d7586",
+    "/pwa-angular2/assets/img/descarga.jpeg": "b2446c79298c830e5069f0909b4e1f111c1d301f",
+    "/pwa-angular2/index.html": "b42cc6c5bcfede90801038dd16ba537cc8287f65",
+    "/pwa-angular2/main.e90f7e9d3eebf1c1.js": "ab75863b40210e1831cd7e6893a39afcd4baff0a",
+    "/pwa-angular2/manifest.webmanifest": "b999b20350b9d57baf64c453a3e5e61624632ca4",
+    "/pwa-angular2/polyfills.c1d1e6c18228a94c.js": "11d3aa07a9efbc3bcb5e5c641ef6cf7b9abdbfe7",
+    "/pwa-angular2/runtime.cf424343e2754761.js": "d87dd591a64c07cb06fec489c59b797b6418ec21",
+    "/pwa-angular2/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
